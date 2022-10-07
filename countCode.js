@@ -14,6 +14,6 @@ function countCode(a){
         wordsChecked++
     }
     while (wordsChecked=>data.length){
-        return console.log(amountOfWordsWithFirstI)
+        return amountOfWordsWithFirstI
     }
 }
