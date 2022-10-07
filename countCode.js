@@ -13,7 +13,5 @@ function countCode(a){
         }
         wordsChecked++
     }
-    while (wordsChecked=>data.length){
         return amountOfWordsWithFirstI
     }
-}
